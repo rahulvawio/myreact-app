@@ -1,0 +1,14 @@
+{
+  "resourceName": "s398245c1a",
+  "policyUUID": "98245c1a",
+  "bucketName": "amp-img-bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
